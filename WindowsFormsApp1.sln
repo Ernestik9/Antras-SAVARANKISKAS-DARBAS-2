@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{319DC5EC-042F-4088-AFAF-C2F5BAEB3AC0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VVK_StudentInstaller", "VVK_StudentInstaller\VVK_StudentInstaller.vdproj", "{3AC0A5E8-65F6-4807-AD9D-546FD55C4ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{319DC5EC-042F-4088-AFAF-C2F5BAEB3AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319DC5EC-042F-4088-AFAF-C2F5BAEB3AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319DC5EC-042F-4088-AFAF-C2F5BAEB3AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319DC5EC-042F-4088-AFAF-C2F5BAEB3AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC0A5E8-65F6-4807-AD9D-546FD55C4ABA}.Debug|Any CPU.ActiveCfg = Debug
+		{3AC0A5E8-65F6-4807-AD9D-546FD55C4ABA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAFBB10E-6C1B-42A5-B959-412124925AE3}
+	EndGlobalSection
+EndGlobal
